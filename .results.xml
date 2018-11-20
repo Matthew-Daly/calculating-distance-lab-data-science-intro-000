@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="1" failures="0" name="pytest" skips="0" tests="1" time="2.503"><testcase classname="" file="future_tests/index_test.py" name="future_tests.index_test" time="0"><error message="collection failure">future_tests/index_test.py:2: in &lt;module&gt;
+    from ipynb.fs.full.index import (neighbors,
+index.ipynb:173: in &lt;module&gt;
+    }
+index.ipynb:171: in nearest_neighbors
+    &quot;metadata&quot;: {},
+E   NameError: name &apos;pe&apos; is not defined</error></testcase></testsuite>
